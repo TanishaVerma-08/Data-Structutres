@@ -5,7 +5,7 @@ int main()
     int num;
     float a,b,c;
    cout<<"Enter 2 numbers: ";
-   cin>>a;cin>>b;
+   cin>>a>>b;
    cout<<"1. Addition"<<endl<<"2. Subtraction"<<endl<<"3. Division"<<endl<<"4. Multiplication"<<endl<<"5. Exit"<<endl;
    cout<<"Enter the number of the operation you require to perform!"<<endl;
    cin>>num;
